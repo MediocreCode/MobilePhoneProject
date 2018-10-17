@@ -8,6 +8,11 @@ public class Driver {
 	static String stop = "y";
 	static String phoneNum;
 	static String text;
+	/*
+	 * Raleigh Dial
+	 * GitHub stuff
+	 * 10/17/2018
+	 */
 
 	public static void main(String[] args) {
 		Scanner myScan = new Scanner(System.in);
